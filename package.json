@@ -1,12 +1,12 @@
 {
   "name": "network-device-listener",
   "version": "1.0.0",
-  "description": "",
+  "description": "Use this library to execute a webhook or custom callback when a device joins your network",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Jesse Cotton <jcotton1123@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "arp-listener": "^1.0.0",
