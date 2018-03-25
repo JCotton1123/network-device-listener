@@ -1,6 +1,4 @@
-const deviceListener = require('./index.js');
-
-const config = {
+module.exports = {
   iface: 'en0',
   devices: {
     '18:f6:43:7e:62:fc': {
@@ -8,5 +6,3 @@ const config = {
     }
   }
 };
-
-deviceListener.startServer(config);

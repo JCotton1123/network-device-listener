@@ -4,7 +4,8 @@
   "description": "Use this library to execute a webhook or custom callback when a device joins your network",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "Jesse Cotton <jcotton1123@gmail.com>",
   "license": "MIT",
