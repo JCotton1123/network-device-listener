@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "author": "Jesse Cotton <jcotton1123@gmail.com>",
-  "license": "MIT",
+  "license": "Apache 2.0",
   "dependencies": {
     "arp-listener": "^1.0.0",
     "request": "^2.85.0"
